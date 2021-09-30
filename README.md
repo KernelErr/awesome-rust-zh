@@ -14,6 +14,7 @@
 - [库](#库)
   - [编程语言](#编程语言)
   - [GUI](#GUI)
+  - [机器学习](#机器学习)
   - [其他](#其他)
 - [软件](#软件)
 - [社区](#社区)
@@ -39,12 +40,16 @@
 
 #### 编程语言
 
-- [pua-lang - PUA Programming Language written in Rust](https://github.com/flaneur2020/pua-lang)
+- [pua-lang - PUA Programming Language written in Rust.](https://github.com/flaneur2020/pua-lang)
 - [chen_lang - 用 Rust 写的 一个小编程语言](https://github.com/zuisong/chen_lang)
 
 #### GUI
 
 - [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
+
+#### 机器学习
+
+- [MegFlow - 快速视觉应用落地](https://github.com/MegEngine/MegFlow)
 
 #### 其他
 
