@@ -12,6 +12,9 @@
   - [在线资料](#在线资料)
   - [实体书籍](#实体书籍)
 - [库](#库)
+  - [编程语言](#编程语言)
+  - [GUI](#GUI)
+  - [其他](#其他)
 - [软件](#软件)
 - [社区](#社区)
 
@@ -34,9 +37,19 @@
 
 ## 库
 
+#### 编程语言
+
+- [pua-lang - PUA Programming Language written in Rust](https://github.com/flaneur2020/pua-lang)
+- [chen_lang - 用 Rust 写的 一个小编程语言](https://github.com/zuisong/chen_lang)
+
+#### GUI
+
+- [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
+
+#### 其他
+
 - [variant-counter - The efficient and elegant crate to count variants of Rust's Enum](https://github.com/Folyd/variant-counter)
 - [CaoE - Kill all children processes when the parent dies](https://github.com/wayslog/caoe)
-- [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
 
 ## 软件
 
