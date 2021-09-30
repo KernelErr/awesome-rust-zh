@@ -27,8 +27,13 @@
 - [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/) [![RSS订阅](https://img.shields.io/badge/RSS%E8%AE%A2%E9%98%85-%E5%8F%AF%E7%94%A8-green)](https://rustmagazine.github.io/rust_magazine_2021/rss.xml)
 - [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)
 - [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
-- [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 - [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
+- [Rust 文档网](https://rustwiki.org/)
+  - [Rust 程序设计语言](https://rustwiki.org/zh-CN/book)
+  - [通过例子学 Rust](https://rustwiki.org/zh-CN/rust-by-example)
+  - [Rust 参考手册](https://rustwiki.org/zh-CN/reference)
+  - [Rust Cookbook](https://rustwiki.org/zh-CN/rust-cookbook)
+  - [Rust 版本指南](https://rustwiki.org/zh-CN/edition-guide)
 
 #### 实体书籍
 
