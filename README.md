@@ -36,6 +36,7 @@
 
 - [variant-counter - The efficient and elegant crate to count variants of Rust's Enum](https://github.com/Folyd/variant-counter)
 - [CaoE - Kill all children processes when the parent dies](https://github.com/wayslog/caoe)
+- [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
 
 ## 软件
 
