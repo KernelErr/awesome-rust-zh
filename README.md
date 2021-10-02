@@ -15,6 +15,7 @@
   - [编程语言](#编程语言)
   - [GUI](#GUI)
   - [机器学习](#机器学习)
+  - [操作系统](#操作系统)
   - [其他](#其他)
 - [软件](#软件)
 - [社区](#社区)
@@ -55,6 +56,12 @@
 #### 机器学习
 
 - [MegFlow - 快速视觉应用落地](https://github.com/MegEngine/MegFlow)
+
+#### 操作系统
+
+- [rCore - Rust version of THU uCore OS.](https://github.com/rcore-os/rCore)
+
+- [core-os-riscv - An xv6-like operating system in Rust.](https://github.com/skyzh/core-os-riscv)
 
 #### 其他
 
