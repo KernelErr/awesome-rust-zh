@@ -24,7 +24,7 @@
 #### 在线资料
 
 - [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
-- [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/) [![RSS订阅](https://img.shields.io/badge/RSS%E8%AE%A2%E9%98%85-%E5%8F%AF%E7%94%A8-green)](https://rustmagazine.github.io/rust_magazine_2021/rss.xml)
+- [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 - [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)
 - [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
 - [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
