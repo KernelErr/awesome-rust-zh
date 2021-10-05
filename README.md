@@ -60,7 +60,6 @@
 #### 操作系统
 
 - [rCore - Rust version of THU uCore OS.](https://github.com/rcore-os/rCore)
-
 - [core-os-riscv - An xv6-like operating system in Rust.](https://github.com/skyzh/core-os-riscv)
 
 #### 其他
@@ -73,6 +72,7 @@
 - [RustDesk - Yet another remote desktop software](https://rustdesk.com/)
 - [Rust Search Extension - 在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等](https://github.com/huhu/rust-search-extension)
 - [ESSE - 加密对称会话引擎](https://github.com/CympleTech/esse)
+- [Clean DNS with eBPF - 基于 Rust + eBPF 丢弃 GFW DNS 污染包](https://github.com/ihciah/clean-dns-bpf)
 
 ## 社区
 
