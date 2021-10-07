@@ -16,6 +16,7 @@
   - [GUI](#GUI)
   - [机器学习](#机器学习)
   - [操作系统](#操作系统)
+  - [容器技术](#容器技术)
   - [前端相关](#前端相关)
   - [其他](#其他)
 - [软件](#软件)
@@ -62,6 +63,10 @@
 
 - [rCore - Rust version of THU uCore OS.](https://github.com/rcore-os/rCore)
 - [core-os-riscv - An xv6-like operating system in Rust.](https://github.com/skyzh/core-os-riscv)
+
+#### 容器技术
+
+- [Shallow Container](https://github.com/KernelErr/shallow-container)
 
 #### 前端相关
 
