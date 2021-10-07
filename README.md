@@ -16,6 +16,7 @@
   - [GUI](#GUI)
   - [机器学习](#机器学习)
   - [操作系统](#操作系统)
+  - [前端相关](#前端相关)
   - [其他](#其他)
 - [软件](#软件)
 - [社区](#社区)
@@ -61,6 +62,10 @@
 
 - [rCore - Rust version of THU uCore OS.](https://github.com/rcore-os/rCore)
 - [core-os-riscv - An xv6-like operating system in Rust.](https://github.com/skyzh/core-os-riscv)
+
+#### 前端相关
+
+- [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
 
 #### 其他
 
