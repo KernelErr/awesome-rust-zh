@@ -48,7 +48,7 @@
 
 #### 教程
 ##### 入门
-- [Rust 安装和代理]https://rsproxy.cn/
+- [Rust 安装和代理](https://rsproxy.cn/)
 
 ## 库
 
