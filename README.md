@@ -60,7 +60,7 @@
 #### GUI
 
 - [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
-- [A cross-platform GUI library for Rust, inspired by Elm](https://github.com/hecrj/iced)
+- [iced - A cross-platform GUI library for Rust, inspired by Elm](https://github.com/hecrj/iced)
 
 #### 机器学习
 
