@@ -11,6 +11,7 @@
 - [书籍/教程/文档](#书籍教程文档)
   - [在线资料](#在线资料)
   - [实体书籍](#实体书籍)
+  - [教程](#教程)
 - [库](#库)
   - [编程语言](#编程语言)
   - [GUI](#GUI)
@@ -37,12 +38,17 @@
   - [Rust 参考手册](https://rustwiki.org/zh-CN/reference)
   - [Rust Cookbook](https://rustwiki.org/zh-CN/rust-cookbook)
   - [Rust 版本指南](https://rustwiki.org/zh-CN/edition-guide)
+  - [Rust 速查表](https://cheats.rs/)
 
 #### 实体书籍
 
 - Rust权威指南
 - Rust编程：入门、实战与进阶
 - Rust编程之道
+
+#### 教程
+##### 入门
+- [Rust 安装和代理](https://rsproxy.cn/)
 
 ## 库
 
@@ -54,6 +60,7 @@
 #### GUI
 
 - [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
+- [iced - A cross-platform GUI library for Rust, inspired by Elm](https://github.com/hecrj/iced)
 
 #### 机器学习
 
