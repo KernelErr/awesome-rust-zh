@@ -40,6 +40,10 @@
   - [Rust 版本指南](https://rustwiki.org/zh-CN/edition-guide)
   - [Rust 速查表](https://cheats.rs/)
 
+##### RustFriday 线上沙龙
+
+- [RustFriday 飞书群线上沙龙 第二十期 - 定制rustc_lint](https://www.bilibili.com/video/BV1oL411G758/)
+
 #### 实体书籍
 
 - Rust权威指南
