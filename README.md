@@ -11,6 +11,7 @@
 - [书籍/教程/文档](#书籍教程文档)
   - [在线资料](#在线资料)
   - [实体书籍](#实体书籍)
+  - [博客资源](#博客资源)
   - [其他资源](#其他资源)
 - [库](#库)
   - [编程语言](#编程语言)
@@ -49,6 +50,10 @@
 - Rust权威指南
 - Rust编程：入门、实战与进阶
 - Rust编程之道
+
+#### 博客资源
+- [fasterthanli - Rust 长篇博文](https://fasterthanli.me/articles)
+- [Jon Gjengset - Rust 超长视频 up 主](https://www.youtube.com/c/JonGjengset/playlists)
 
 #### 其他资源
 
