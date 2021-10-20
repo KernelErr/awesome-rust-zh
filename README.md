@@ -11,7 +11,7 @@
 - [书籍/教程/文档](#书籍教程文档)
   - [在线资料](#在线资料)
   - [实体书籍](#实体书籍)
-  - [教程](#教程)
+  - [其他资源](#其他资源)
 - [库](#库)
   - [编程语言](#编程语言)
   - [GUI](#GUI)
@@ -40,15 +40,19 @@
   - [Rust 版本指南](https://rustwiki.org/zh-CN/edition-guide)
   - [Rust 速查表](https://cheats.rs/)
 
+##### RustFriday 线上沙龙
+
+- [RustFriday 飞书群线上沙龙 第二十期 - 定制rustc_lint](https://www.bilibili.com/video/BV1oL411G758/)
+
 #### 实体书籍
 
 - Rust权威指南
 - Rust编程：入门、实战与进阶
 - Rust编程之道
 
-#### 教程
-##### 入门
-- [Rust 安装和代理](https://rsproxy.cn/)
+#### 其他资源
+
+- [Rust国内源（字节）](https://rsproxy.cn/)
 
 ## 库
 
