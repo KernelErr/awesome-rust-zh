@@ -40,6 +40,7 @@
   - [Rust Cookbook](https://rustwiki.org/zh-CN/rust-cookbook)
   - [Rust 版本指南](https://rustwiki.org/zh-CN/edition-guide)
   - [Rust 速查表](https://cheats.rs/)
+- [Rust 编码规范 中文版](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)
 
 ##### RustFriday 线上沙龙
 
