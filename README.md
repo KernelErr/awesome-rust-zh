@@ -91,12 +91,13 @@
 
 #### 其他
 
-- [variant-counter - The efficient and elegant crate to count variants of Rust's Enum](https://github.com/Folyd/variant-counter)
-- [CaoE - Kill all children processes when the parent dies](https://github.com/wayslog/caoe)
+- [variant-counter - 优雅的Enum计数库](https://github.com/Folyd/variant-counter)
+- [CaoE - 当父进程退出杀死所有子进程](https://github.com/wayslog/caoe)
+- [udbg-base - udbg基础库带有跨平台内存读写等功能](https://github.com/udbg/udbg-base)
 
 ## 软件
 
-- [RustDesk - Yet another remote desktop software](https://rustdesk.com/)
+- [RustDesk - 远程桌面软件](https://rustdesk.com/)
 - [Rust Search Extension - 在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等](https://github.com/huhu/rust-search-extension)
 - [ESSE - 加密对称会话引擎](https://github.com/CympleTech/esse)
 - [Clean DNS with eBPF - 基于 Rust + eBPF 丢弃 GFW DNS 污染包](https://github.com/ihciah/clean-dns-bpf)
