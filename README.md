@@ -41,6 +41,7 @@
   - [Rust 版本指南](https://rustwiki.org/zh-CN/edition-guide)
   - [Rust 速查表](https://cheats.rs/)
 - [Rust 编码规范 中文版](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)
+- [Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
 
 ##### RustFriday 线上沙龙
 
