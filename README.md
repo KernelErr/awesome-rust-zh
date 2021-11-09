@@ -60,6 +60,7 @@
 #### 其他资源
 
 - [Rust国内源（字节）](https://rsproxy.cn/)
+- [Rust 开发者学习路线图](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
 
 ## 库
 
