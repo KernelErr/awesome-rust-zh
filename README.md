@@ -66,14 +66,14 @@
 
 #### 编程语言
 
-- [pua-lang - PUA Programming Language written in Rust.](https://github.com/flaneur2020/pua-lang)
+- [pua-lang - Rust编写的PUA语言](https://github.com/flaneur2020/pua-lang)
 - [chen_lang - 用 Rust 写的 一个小编程语言](https://github.com/zuisong/chen_lang)
 
 #### GUI
 
-- [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
-- [iced - A cross-platform GUI library for Rust, inspired by Elm](https://github.com/hecrj/iced)
-- [egui: an easy-to-use immediate mode GUI in pure Rust](https://github.com/emilk/egui)
+- [SixtyFPS - 高效GUI开发套件](https://github.com/sixtyfpsui/sixtyfps.git)
+- [iced - 跨平台GUI库，受Elm启发](https://github.com/hecrj/iced)
+- [egui - 易用的即时GUI库](https://github.com/emilk/egui)
 
 #### 机器学习
 
@@ -81,8 +81,8 @@
 
 #### 操作系统
 
-- [rCore - Rust version of THU uCore OS.](https://github.com/rcore-os/rCore)
-- [core-os-riscv - An xv6-like operating system in Rust.](https://github.com/skyzh/core-os-riscv)
+- [rCore - 清华uCore系统的Rust版本](https://github.com/rcore-os/rCore)
+- [core-os-riscv - 一个Rust编写的类xv6系统](https://github.com/skyzh/core-os-riscv)
 
 #### 容器技术
 
@@ -91,7 +91,7 @@
 #### 前端相关
 
 - [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
-- [Yew - Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
+- [Yew - 现代Rust/Wasm多线程前端框架](https://github.com/yewstack/yew)
 
 #### 其他
 
@@ -109,3 +109,4 @@
 ## 社区
 
 - [Rust语言中文社区](https://rustcc.cn/)
+
