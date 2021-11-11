@@ -73,6 +73,7 @@
 
 - [SixtyFPS - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps.git)
 - [iced - A cross-platform GUI library for Rust, inspired by Elm](https://github.com/hecrj/iced)
+- [egui: an easy-to-use immediate mode GUI in pure Rust](https://github.com/emilk/egui)
 
 #### 机器学习
 
@@ -90,6 +91,7 @@
 #### 前端相关
 
 - [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
+- [Yew - Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
 
 #### 其他
 
