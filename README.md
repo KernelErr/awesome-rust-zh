@@ -91,6 +91,7 @@
 #### 前端相关
 
 - [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
+- [Yew - Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
 
 #### 其他
 
