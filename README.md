@@ -74,6 +74,7 @@
 - [SixtyFPS - 高效GUI开发套件](https://github.com/sixtyfpsui/sixtyfps.git)
 - [iced - 跨平台GUI库，受Elm启发](https://github.com/hecrj/iced)
 - [egui - 易用的即时GUI库](https://github.com/emilk/egui)
+- [flutter-rs - 使用Rust和Flutter构建好看的桌面端App](https://github.com/flutter-rs/flutter-rs)
 
 #### 机器学习
 
@@ -83,10 +84,12 @@
 
 - [rCore - 清华uCore系统的Rust版本](https://github.com/rcore-os/rCore)
 - [core-os-riscv - 一个Rust编写的类xv6系统](https://github.com/skyzh/core-os-riscv)
+- [zCore - 用Rust语言重写的Zircon微内核](https://github.com/rcore-os/zCore)
 
 #### 容器技术
 
 - [Shallow Container](https://github.com/KernelErr/shallow-container)
+- [krustlet - 在本机运行WebAssembly程序](https://github.com/krustlet/krustlet)
 
 #### 前端相关
 
