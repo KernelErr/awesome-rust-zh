@@ -21,6 +21,7 @@
   - [容器技术](#容器技术)
   - [前端相关](#前端相关)
   - [后端相关](#后端相关)
+  - [异步框架](#异步框架)
   - [其他](#其他)
 - [软件](#软件)
 - [社区](#社区)
@@ -125,6 +126,7 @@
 - [Rust Search Extension - 在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等](https://github.com/huhu/rust-search-extension)
 - [ESSE - 加密对称会话引擎](https://github.com/CympleTech/esse)
 - [Clean DNS with eBPF - 基于 Rust + eBPF 丢弃 GFW DNS 污染包](https://github.com/ihciah/clean-dns-bpf)
+- [meilisearch - 快速实时搜索引擎](https://github.com/meilisearch/MeiliSearch)
 
 ## 社区
 
