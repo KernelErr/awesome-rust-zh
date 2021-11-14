@@ -87,6 +87,8 @@
 
 #### 操作系统
 
+- [Linux - 为Linux内核添加Rust支持](https://github.com/Rust-for-Linux/linux)
+
 - [rCore - 清华uCore系统的Rust版本](https://github.com/rcore-os/rCore)
 - [core-os-riscv - 一个Rust编写的类xv6系统](https://github.com/skyzh/core-os-riscv)
 - [zCore - 用Rust语言重写的Zircon微内核](https://github.com/rcore-os/zCore)
@@ -101,10 +103,12 @@
 - [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
 - [Yew - 现代Rust/Wasm多线程前端框架](https://github.com/yewstack/yew)
 - [Robinson - 玩具Web渲染引擎](https://github.com/mbrubeck/robinson)
+- [wasmtime - 独立Wasm JIT运行时](https://github.com/bytecodealliance/wasmtime)
 
 #### 后端相关
 
 - [poem - 简单易用功能丰富的后端框架](https://github.com/poem-web/poem)
+- [axum - 基于Tokio/Tower/Hyper的现代化Web框架](https://github.com/tokio-rs/axum)
 
 #### 其他
 
