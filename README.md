@@ -88,7 +88,6 @@
 #### 操作系统
 
 - [Linux - 为Linux内核添加Rust支持](https://github.com/Rust-for-Linux/linux)
-
 - [rCore - 清华uCore系统的Rust版本](https://github.com/rcore-os/rCore)
 - [core-os-riscv - 一个Rust编写的类xv6系统](https://github.com/skyzh/core-os-riscv)
 - [zCore - 用Rust语言重写的Zircon微内核](https://github.com/rcore-os/zCore)
@@ -109,6 +108,10 @@
 
 - [poem - 简单易用功能丰富的后端框架](https://github.com/poem-web/poem)
 - [axum - 基于Tokio/Tower/Hyper的现代化Web框架](https://github.com/tokio-rs/axum)
+
+####  异步框架
+
+- [glommio - 支持io_uring的线程与核绑定异步框架](https://github.com/DataDog/glommio)
 
 #### 其他
 
