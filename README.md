@@ -51,7 +51,9 @@
 
 ##### Rust源码阅读俱乐部
 
-- [第一期 ： 名称解析](https://mp.weixin.qq.com/s/XAkJzT21uoKWPIkvv_45nw)
+- [GitHub repo](https://github.com/ZhangHanDong/rust-code-reading-club)
+- [第一期：名称解析](https://www.bilibili.com/video/BV1534y1Z7Bv)
+- [第二期：类型推断 和 Tokio 源码 Part1](https://www.bilibili.com/video/BV1uT4y1R75U)
 
 #### 实体书籍
 
