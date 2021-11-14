@@ -48,6 +48,10 @@
 
 - [RustFriday 飞书群线上沙龙 第二十期 - 定制rustc_lint](https://www.bilibili.com/video/BV1oL411G758/)
 
+##### Rust源码阅读俱乐部
+
+- [第一期 ： 名称解析](https://mp.weixin.qq.com/s/XAkJzT21uoKWPIkvv_45nw)
+
 #### 实体书籍
 
 - Rust权威指南
