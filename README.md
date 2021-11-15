@@ -119,7 +119,7 @@
 
 ####  文件系统
 
-- [procfs - 解析/etc/proc下的各种文件](https://github.com/eminence/procfs)
+- [procfs - 解析proc下的各种文件](https://github.com/eminence/procfs)
 
 #### 其他
 
@@ -134,6 +134,7 @@
 - [ESSE - 加密对称会话引擎](https://github.com/CympleTech/esse)
 - [Clean DNS with eBPF - 基于 Rust + eBPF 丢弃 GFW DNS 污染包](https://github.com/ihciah/clean-dns-bpf)
 - [meilisearch - 快速实时搜索引擎](https://github.com/meilisearch/MeiliSearch)
+- [bottom - 跨平台可视化资源管理器](https://github.com/ClementTsang/bottom)
 
 ## 社区
 
