@@ -1,6 +1,6 @@
 # Awesome Rust Zh
 
-中文Rust社区资源汇总，[贡献指南](CONTRIBUTING.md)。
+中文Rust社区资源汇总，[贡献指南](CONTRIBUTING.md)。欢迎加入[Rust中文社群](https://301.one/rustzhgroup)（飞书群聊）和小伙伴们探讨Rust。
 
 ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
