@@ -45,6 +45,7 @@
   - [Rust 速查表](https://cheats.rs/)
 - [Rust 编码规范 中文版](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)
 - [Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
+- [编写 Rust 语言的操作系统](https://github.com/rustcc/writing-an-os-in-rust)
 
 ##### RustFriday 线上沙龙
 
