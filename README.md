@@ -116,6 +116,7 @@
 
 ####  异步框架
 
+- [monoio - 一个基于 io-uring 和 thread-per-core 模型 Rust Runtime](https://github.com/bytedance/monoio)
 - [glommio - 支持io_uring的线程与核绑定异步框架](https://github.com/DataDog/glommio)
 
 ####  文件系统
