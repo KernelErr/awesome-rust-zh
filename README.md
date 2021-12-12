@@ -71,6 +71,7 @@
 
 - [Rust国内源（字节）](https://rsproxy.cn/)
 - [Rust 开发者学习路线图](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
+- [Rust 安全顾问数据可视化](https://rsadv.lirui.tech/)
 
 ## 库
 
@@ -137,6 +138,7 @@
 - [Clean DNS with eBPF - 基于 Rust + eBPF 丢弃 GFW DNS 污染包](https://github.com/ihciah/clean-dns-bpf)
 - [meilisearch - 快速实时搜索引擎](https://github.com/meilisearch/MeiliSearch)
 - [bottom - 跨平台可视化资源管理器](https://github.com/ClementTsang/bottom)
+- [paste - 云粘贴板](https://github.com/yanfenglee/paste) [在线链接](http://p.gluc.cn/)
 
 ## 社区
 
