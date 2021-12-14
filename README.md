@@ -140,6 +140,7 @@
 - [meilisearch - 快速实时搜索引擎](https://github.com/meilisearch/MeiliSearch)
 - [bottom - 跨平台可视化资源管理器](https://github.com/ClementTsang/bottom)
 - [paste - 云粘贴板](https://github.com/yanfenglee/paste) [在线链接](http://p.gluc.cn/)
+- [lapce - 强大快速的代码编辑器](https://github.com/lapce/lapce)
 
 ## 社区
 
