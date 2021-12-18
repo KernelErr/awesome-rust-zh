@@ -23,8 +23,10 @@
   - [后端相关](#后端相关)
   - [异步框架](#异步框架)
   - [文件系统](#文件系统)
-  - [其他](#其他)
+  - [其他库](#其他库)
 - [软件](#软件)
+  - [数据库](#数据库)
+  - [其他软件](#其他软件)
 - [社区](#社区)
 
 ## 书籍/教程/文档
@@ -125,13 +127,26 @@
 
 - [procfs - 解析proc下的各种文件](https://github.com/eminence/procfs)
 
-#### 其他
+#### 其他库
 
 - [variant-counter - 优雅的Enum计数库](https://github.com/Folyd/variant-counter)
 - [CaoE - 当父进程退出杀死所有子进程](https://github.com/wayslog/caoe)
 - [udbg-base - udbg基础库带有跨平台内存读写等功能](https://github.com/udbg/udbg-base)
 
 ## 软件
+
+#### 数据库
+
+- [tikv - 分布式KV数据库](https://github.com/tikv/tikv)
+- [pelikan - Twiiter统一缓存后端](https://github.com/twitter/pelikan)
+- [sled - 嵌入式数据库](https://github.com/spacejam/sled)
+- [indradb - 图数据库](https://github.com/indradb/indradb)
+- [materialize - SQL数据流数据库](https://github.com/MaterializeInc/materialize)
+- [noria - 高性能数据流数据库](https://github.com/mit-pdos/noria)
+- [lucid - 提供HTTP API的高性能KV数据库](https://github.com/lucid-kv/lucid)
+- [parity-db - 实验性区块链数据库](https://github.com/paritytech/parity-db)
+
+#### 其他软件
 
 - [RustDesk - 远程桌面软件](https://rustdesk.com/)
 - [Rust Search Extension - 在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等](https://github.com/huhu/rust-search-extension)
