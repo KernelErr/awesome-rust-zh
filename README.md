@@ -117,6 +117,9 @@
 
 - [poem - 简单易用功能丰富的后端框架](https://github.com/poem-web/poem)
 - [axum - 基于Tokio/Tower/Hyper的现代化Web框架](https://github.com/tokio-rs/axum)
+- [hyper - Rust HTTP库](https://github.com/hyperium/hyper)
+- [actix-web - 强大且速度极快的web框架](https://github.com/actix/actix-web)
+- [Rocket - 简单快速的web框架](https://github.com/SergioBenitez/Rocket)
 
 ####  异步框架
 
