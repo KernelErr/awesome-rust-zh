@@ -112,6 +112,7 @@
 - [Yew - 现代Rust/Wasm多线程前端框架](https://github.com/yewstack/yew)
 - [Robinson - 玩具Web渲染引擎](https://github.com/mbrubeck/robinson)
 - [wasmtime - 独立Wasm JIT运行时](https://github.com/bytecodealliance/wasmtime)
+- [sycamore - 基于Rust和WebAssembly的响应式web库](https://github.com/sycamore-rs/sycamore)
 
 #### 后端相关
 
@@ -120,6 +121,7 @@
 - [hyper - Rust HTTP库](https://github.com/hyperium/hyper)
 - [actix-web - 强大且速度极快的web框架](https://github.com/actix/actix-web)
 - [Rocket - 简单快速的web框架](https://github.com/SergioBenitez/Rocket)
+- [Perseus - 支持服务器渲染和静态生成的web开发框架](https://github.com/arctic-hen7/perseus)
 
 ####  异步框架
 
