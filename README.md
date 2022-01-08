@@ -14,6 +14,7 @@
   - [博客资源](#博客资源)
   - [其他资源](#其他资源)
 - [库](#库)
+  - [WebAssembly](#WebAssembly) 
   - [编程语言](#编程语言)
   - [GUI](#GUI)
   - [机器学习](#机器学习)
@@ -78,6 +79,12 @@
 
 ## 库
 
+#### WebAssembly
+
+- [wasmtime - 独立Wasm JIT运行时](https://github.com/bytecodealliance/wasmtime)
+- [WasmEdge - 边缘计算优化的轻量级、高性能、可扩展的 WebAssembly (Wasm) 虚拟机](https://github.com/WasmEdge/WasmEdge)
+- [wasmer - 支持WASI和Emscripten的WebAssembly运行时](https://github.com/wasmerio/wasmer)
+
 #### 编程语言
 
 - [pua-lang - Rust编写的PUA语言](https://github.com/flaneur2020/pua-lang)
@@ -111,7 +118,6 @@
 - [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
 - [Yew - 现代Rust/Wasm多线程前端框架](https://github.com/yewstack/yew)
 - [Robinson - 玩具Web渲染引擎](https://github.com/mbrubeck/robinson)
-- [wasmtime - 独立Wasm JIT运行时](https://github.com/bytecodealliance/wasmtime)
 - [sycamore - 基于Rust和WebAssembly的响应式web库](https://github.com/sycamore-rs/sycamore)
 
 #### 后端相关
