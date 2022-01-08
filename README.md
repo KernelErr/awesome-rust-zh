@@ -84,6 +84,7 @@
 - [wasmtime - 独立Wasm JIT运行时](https://github.com/bytecodealliance/wasmtime)
 - [WasmEdge - 边缘计算优化的轻量级、高性能、可扩展的 WebAssembly (Wasm) 虚拟机](https://github.com/WasmEdge/WasmEdge)
 - [wasmer - 支持WASI和Emscripten的WebAssembly运行时](https://github.com/wasmerio/wasmer)
+- [wit-bindgen - `wit`语言绑定生成器](https://github.com/bytecodealliance/wit-bindgen)
 
 #### 编程语言
 
