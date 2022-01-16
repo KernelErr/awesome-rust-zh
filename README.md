@@ -51,6 +51,11 @@
 - [编写 Rust 语言的操作系统](https://github.com/rustcc/writing-an-os-in-rust)
 - [rustlings - Rust小练习](https://github.com/rust-lang/rustlings)
 
+##### 2021 年 Rust 生态版图调研报告
+
+- [2021 年 Rust 生态调研报告 | 星辰大海 【上篇】](https://mp.weixin.qq.com/s/SN0it6uHf2mv0O_KYTooUg)
+- [2021 年 Rust 生态调研报告 | 星辰大海 【下篇】](https://mp.weixin.qq.com/s/Q9leuL0mkykw28_tOjKhaQ)
+
 ##### RustFriday 线上沙龙
 
 - [RustFriday 飞书群线上沙龙 第二十期 - 定制rustc_lint](https://www.bilibili.com/video/BV1oL411G758/)
