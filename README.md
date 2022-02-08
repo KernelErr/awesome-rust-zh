@@ -162,6 +162,7 @@
 - [noria - 高性能数据流数据库](https://github.com/mit-pdos/noria)
 - [lucid - 提供HTTP API的高性能KV数据库](https://github.com/lucid-kv/lucid)
 - [parity-db - 实验性区块链数据库](https://github.com/paritytech/parity-db)
+- [skytable - 快速安全持久化的NoSQL数据库](https://github.com/skytable/skytable)
 
 #### 其他软件
 
