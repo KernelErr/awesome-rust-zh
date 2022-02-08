@@ -173,6 +173,7 @@
 - [bottom - 跨平台可视化资源管理器](https://github.com/ClementTsang/bottom)
 - [paste - 云粘贴板](https://github.com/yanfenglee/paste) [在线链接](http://p.gluc.cn/)
 - [lapce - 强大快速的代码编辑器](https://github.com/lapce/lapce)
+- [gyroflow - 使用相机的陀螺仪数据稳定录像](https://github.com/gyroflow/gyroflow)
 
 ## 社区
 
