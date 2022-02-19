@@ -175,7 +175,7 @@
 - [paste - 云粘贴板](https://github.com/yanfenglee/paste) [在线链接](http://p.gluc.cn/)
 - [lapce - 强大快速的代码编辑器](https://github.com/lapce/lapce)
 - [gyroflow - 使用相机的陀螺仪数据稳定录像](https://github.com/gyroflow/gyroflow)
-- [AppFlowy - The Open Source Alternative To Notion](https://github.com/AppFlowy-IO/AppFlowy)
+- [AppFlowy - 开源的Notion替代](https://github.com/AppFlowy-IO/AppFlowy)
 
 ## 社区
 
