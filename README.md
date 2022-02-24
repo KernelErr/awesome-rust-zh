@@ -50,6 +50,7 @@
 - [Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
 - [编写 Rust 语言的操作系统](https://github.com/rustcc/writing-an-os-in-rust)
 - [rustlings - Rust小练习](https://github.com/rust-lang/rustlings)
+- [rust-course - Rust语言圣经](https://github.com/sunface/rust-course)
 
 ##### 2021 年 Rust 生态版图调研报告
 
@@ -98,7 +99,7 @@
 
 #### GUI
 
-- [SixtyFPS - 高效GUI开发套件](https://github.com/sixtyfpsui/sixtyfps.git)
+- [slint - 高效GUI开发套件](https://github.com/slint-ui/slint)
 - [iced - 跨平台GUI库，受Elm启发](https://github.com/hecrj/iced)
 - [egui - 易用的即时GUI库](https://github.com/emilk/egui)
 - [flutter-rs - 使用Rust和Flutter构建好看的桌面端App](https://github.com/flutter-rs/flutter-rs)
