@@ -126,6 +126,7 @@
 - [Yew - 现代Rust/Wasm多线程前端框架](https://github.com/yewstack/yew)
 - [Robinson - 玩具Web渲染引擎](https://github.com/mbrubeck/robinson)
 - [sycamore - 基于Rust和WebAssembly的响应式web库](https://github.com/sycamore-rs/sycamore)
+- [Dioxus - 优雅的类React前端框架](https://github.com/DioxusLabs/dioxus)
 
 #### 后端相关
 
