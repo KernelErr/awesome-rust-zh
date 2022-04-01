@@ -1,6 +1,6 @@
 # Awesome Rust Zh
 
-中文Rust社区资源汇总，[贡献指南](CONTRIBUTING.md)。欢迎加入[Rust中文社群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=a53ude34-56a2-4715-9208-17829920c62c)（飞书群聊）和小伙伴们探讨Rust。
+中文Rust社区资源汇总，欢迎PR和建议，请见[贡献指南](CONTRIBUTING.md)。欢迎加入[Rust中文社群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=a53ude34-56a2-4715-9208-17829920c62c)（飞书群聊）和小伙伴们探讨Rust。
 
 ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
@@ -27,6 +27,7 @@
   - [其他库](#其他库)
 - [软件](#软件)
   - [数据库](#数据库)
+  - [静态网页生成器](#静态网页生成器)
   - [其他软件](#其他软件)
 - [社区](#社区)
 
@@ -34,10 +35,12 @@
 
 #### 在线资料
 
+##### 入门
+
+- [Rust语言圣经](https://github.com/sunface/rust-course)
+- [rustlings - Rust小练习](https://github.com/rust-lang/rustlings)
+
 - [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
-- [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
-- [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)
-- [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
 - [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
 - [Rust 文档网](https://rustwiki.org/)
   - [Rust 程序设计语言](https://rustwiki.org/zh-CN/book)
@@ -46,26 +49,28 @@
   - [Rust Cookbook](https://rustwiki.org/zh-CN/rust-cookbook)
   - [Rust 版本指南](https://rustwiki.org/zh-CN/edition-guide)
   - [Rust 速查表](https://cheats.rs/)
+
+##### 进阶
+
+- [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)
+- [Rust 异步编程指南](https://github.com/studyrs/async-book)
+- [手把手实现 Rust 链表](https://github.com/sunface/too-many-lists)
+- [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
 - [Rust 编码规范 中文版](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)
-- [Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
 - [编写 Rust 语言的操作系统](https://github.com/rustcc/writing-an-os-in-rust)
-- [rustlings - Rust小练习](https://github.com/rust-lang/rustlings)
-- [rust-course - Rust语言圣经](https://github.com/sunface/rust-course)
+- [Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
+- [使用Rust编写HTML渲染引擎](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [使用Rust编写DNS服务器](https://github.com/EmilHernvall/dnsguide)
+
+##### Rust语言开源杂志
+
+- [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+- [Rust语言开源杂志（2022）](https://rustmagazine.github.io/rust_magazine_2022/)
 
 ##### 2021 年 Rust 生态版图调研报告
 
 - [2021 年 Rust 生态调研报告 | 星辰大海 【上篇】](https://mp.weixin.qq.com/s/SN0it6uHf2mv0O_KYTooUg)
 - [2021 年 Rust 生态调研报告 | 星辰大海 【下篇】](https://mp.weixin.qq.com/s/Q9leuL0mkykw28_tOjKhaQ)
-
-##### RustFriday 线上沙龙
-
-- [RustFriday 飞书群线上沙龙 第二十期 - 定制rustc_lint](https://www.bilibili.com/video/BV1oL411G758/)
-
-##### Rust源码阅读俱乐部
-
-- [GitHub repo](https://github.com/ZhangHanDong/rust-code-reading-club)
-- [第一期：名称解析](https://www.bilibili.com/video/BV1534y1Z7Bv)
-- [第二期：类型推断 和 Tokio 源码 Part1](https://www.bilibili.com/video/BV1uT4y1R75U)
 
 #### 实体书籍
 
@@ -81,7 +86,6 @@
 
 - [Rust国内源（字节）](https://rsproxy.cn/)
 - [Rust 开发者学习路线图](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
-- [Rust 安全顾问数据可视化](https://rsadv.lirui.tech/)
 
 ## 库
 
@@ -122,15 +126,18 @@
 
 #### 前端相关
 
-- [Vue Compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
+- [Rust实现Vue编译器](https://github.com/HerringtonDarkholme/vue-compiler)
 - [Yew - 现代Rust/Wasm多线程前端框架](https://github.com/yewstack/yew)
 - [Robinson - 玩具Web渲染引擎](https://github.com/mbrubeck/robinson)
 - [sycamore - 基于Rust和WebAssembly的响应式web库](https://github.com/sycamore-rs/sycamore)
 - [Dioxus - 优雅的类React前端框架](https://github.com/DioxusLabs/dioxus)
+- [Percy - Rust + WebAssembly前端框架](https://github.com/chinedufn/percy)
 
 #### 后端相关
 
 - [poem - 简单易用功能丰富的后端框架](https://github.com/poem-web/poem)
+  - [poem-ratelimit - poem限流中间件](https://github.com/KernelErr/poem-ratelimit)
+
 - [axum - 基于Tokio/Tower/Hyper的现代化Web框架](https://github.com/tokio-rs/axum)
 - [hyper - Rust HTTP库](https://github.com/hyperium/hyper)
 - [actix-web - 强大且速度极快的web框架](https://github.com/actix/actix-web)
@@ -165,6 +172,10 @@
 - [lucid - 提供HTTP API的高性能KV数据库](https://github.com/lucid-kv/lucid)
 - [parity-db - 实验性区块链数据库](https://github.com/paritytech/parity-db)
 - [skytable - 快速安全持久化的NoSQL数据库](https://github.com/skytable/skytable)
+
+#### 静态网页生成器
+
+- [zine - 杂志生成器](https://github.com/zineland/zine)
 
 #### 其他软件
 
