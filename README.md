@@ -39,7 +39,6 @@
 
 - [Rust语言圣经](https://github.com/sunface/rust-course)
 - [rustlings - Rust小练习](https://github.com/rust-lang/rustlings)
-
 - [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
 - [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
 - [Rust 文档网](https://rustwiki.org/)
@@ -86,6 +85,7 @@
 
 - [Rust国内源（字节）](https://rsproxy.cn/)
 - [Rust 开发者学习路线图](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
+- [cross - 跨平台编译工具](https://github.com/cross-rs/cross)
 
 ## 库
 
@@ -137,7 +137,6 @@
 
 - [poem - 简单易用功能丰富的后端框架](https://github.com/poem-web/poem)
   - [poem-ratelimit - poem限流中间件](https://github.com/KernelErr/poem-ratelimit)
-
 - [axum - 基于Tokio/Tower/Hyper的现代化Web框架](https://github.com/tokio-rs/axum)
 - [hyper - Rust HTTP库](https://github.com/hyperium/hyper)
 - [actix-web - 强大且速度极快的web框架](https://github.com/actix/actix-web)
