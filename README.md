@@ -65,6 +65,8 @@
 
 - [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 - [Rust语言开源杂志（2022）](https://rustmagazine.github.io/rust_magazine_2022/)
+  - [第一季](https://rustmagazine.github.io/rust_magazine_2022/Q1/toc.html)
+
 
 ##### 2021 年 Rust 生态版图调研报告
 
@@ -142,6 +144,7 @@
 - [actix-web - 强大且速度极快的web框架](https://github.com/actix/actix-web)
 - [Rocket - 简单快速的web框架](https://github.com/SergioBenitez/Rocket)
 - [Perseus - 支持服务器渲染和静态生成的web开发框架](https://github.com/arctic-hen7/perseus)
+- [Spin - Wasm微服务框架](https://github.com/fermyon/spin)
 
 ####  异步框架
 
@@ -188,6 +191,7 @@
 - [lapce - 强大快速的代码编辑器](https://github.com/lapce/lapce)
 - [gyroflow - 使用相机的陀螺仪数据稳定录像](https://github.com/gyroflow/gyroflow)
 - [AppFlowy - 开源的Notion替代](https://github.com/AppFlowy-IO/AppFlowy)
+- [Lust - 自建图片处理服务器](https://github.com/ChillFish8/lust)
 
 ## 社区
 
