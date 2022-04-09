@@ -8,28 +8,34 @@
 
 ## 目录
 
-- [书籍/教程/文档](#书籍教程文档)
-  - [在线资料](#在线资料)
-  - [实体书籍](#实体书籍)
-  - [博客资源](#博客资源)
-  - [其他资源](#其他资源)
-- [库](#库)
-  - [WebAssembly](#WebAssembly) 
-  - [编程语言](#编程语言)
-  - [GUI](#GUI)
-  - [机器学习](#机器学习)
-  - [操作系统](#操作系统)
-  - [容器技术](#容器技术)
-  - [前端相关](#前端相关)
-  - [后端相关](#后端相关)
-  - [异步框架](#异步框架)
-  - [文件系统](#文件系统)
-  - [其他库](#其他库)
-- [软件](#软件)
-  - [数据库](#数据库)
-  - [静态网页生成器](#静态网页生成器)
-  - [其他软件](#其他软件)
-- [社区](#社区)
+- [Awesome Rust Zh](#awesome-rust-zh)
+  - [目录](#目录)
+  - [书籍/教程/文档](#书籍教程文档)
+      - [在线资料](#在线资料)
+        - [入门](#入门)
+        - [进阶](#进阶)
+        - [Rust语言开源杂志](#rust语言开源杂志)
+        - [2021 年 Rust 生态版图调研报告](#2021-年-rust-生态版图调研报告)
+      - [实体书籍](#实体书籍)
+      - [博客资源](#博客资源)
+      - [其他资源](#其他资源)
+  - [库](#库)
+      - [WebAssembly](#webassembly)
+      - [编程语言](#编程语言)
+      - [GUI](#gui)
+      - [机器学习](#机器学习)
+      - [操作系统](#操作系统)
+      - [容器技术](#容器技术)
+      - [前端相关](#前端相关)
+      - [后端相关](#后端相关)
+      - [异步框架](#异步框架)
+      - [文件系统](#文件系统)
+      - [其他库](#其他库)
+  - [软件](#软件)
+      - [数据库](#数据库)
+      - [静态网页生成器](#静态网页生成器)
+      - [其他软件](#其他软件)
+  - [社区](#社区)
 
 ## 书籍/教程/文档
 
@@ -109,6 +115,7 @@
 - [iced - 跨平台GUI库，受Elm启发](https://github.com/hecrj/iced)
 - [egui - 易用的即时GUI库](https://github.com/emilk/egui)
 - [flutter-rs - 使用Rust和Flutter构建好看的桌面端App](https://github.com/flutter-rs/flutter-rs)
+- [flutter_rust_bridge - Rust到Flutter/Dart的高级内存安全绑定生成器](https://github.com/fzyzcjy/flutter_rust_bridge)
 
 #### 机器学习
 
@@ -160,6 +167,7 @@
 - [variant-counter - 优雅的Enum计数库](https://github.com/Folyd/variant-counter)
 - [CaoE - 当父进程退出杀死所有子进程](https://github.com/wayslog/caoe)
 - [udbg-base - udbg基础库带有跨平台内存读写等功能](https://github.com/udbg/udbg-base)
+- [big_data - Rust编写的redis扩展数据结构完全兼容Erlang数据结构格式](https://github.com/yangcancai/big_data)
 
 ## 软件
 
