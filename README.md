@@ -168,6 +168,7 @@
 - [CaoE - 当父进程退出杀死所有子进程](https://github.com/wayslog/caoe)
 - [udbg-base - udbg基础库带有跨平台内存读写等功能](https://github.com/udbg/udbg-base)
 - [big_data - Rust编写的redis扩展数据结构完全兼容Erlang数据结构格式](https://github.com/yangcancai/big_data)
+- [diesel - Rust编写的可扩展的ORM](https://github.com/diesel-rs/diesel)
 
 ## 软件
 
