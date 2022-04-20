@@ -30,6 +30,7 @@
       - [后端相关](#后端相关)
       - [异步框架](#异步框架)
       - [文件系统](#文件系统)
+      - [数据库驱动](#数据库驱动)
       - [其他库](#其他库)
   - [软件](#软件)
       - [数据库](#数据库)
@@ -161,6 +162,12 @@
 ####  文件系统
 
 - [procfs - 解析proc下的各种文件](https://github.com/eminence/procfs)
+
+#### 数据库驱动
+
+- [mongodb](https://crates.io/crates/mongodb)
+- [redis](https://crates.io/crates/redis)
+- [SQLx - Rust SQL工具箱](https://crates.io/crates/sqlx)
 
 #### 其他库
 
