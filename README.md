@@ -44,10 +44,11 @@
 
 ##### 入门
 
-- [Rust语言圣经](https://github.com/sunface/rust-course)
+- [The Rust Programming Language英文原版](https://doc.rust-lang.org/book/)
 - [rustlings - Rust小练习](https://github.com/rust-lang/rustlings)
 - [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
 - [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
+- [Rust语言圣经](https://github.com/sunface/rust-course)
 - [Rust 文档网](https://rustwiki.org/)
   - [Rust 程序设计语言](https://rustwiki.org/zh-CN/book)
   - [通过例子学 Rust](https://rustwiki.org/zh-CN/rust-by-example)
